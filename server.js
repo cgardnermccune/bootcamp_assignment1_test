@@ -1,7 +1,9 @@
-var http = require('http'), 
-    fs = require('fs'), 
-    url = require('url'),
-    port = 8080;
+//Christina's server file
+
+var http = require('http'),
+  fs = require('fs'),
+  url = require('url'),
+  port = 8080;
 
 /* Global variables */
 var listingData, server;
